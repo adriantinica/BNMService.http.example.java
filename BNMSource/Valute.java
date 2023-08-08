@@ -62,25 +62,9 @@ public class Valute {
 
     @Override
     public String toString() {
-        return "Valute [numCode=" + numCode + ", charCode=" + charCode + ", nominal=" + nominal + ", money=" + money
+        return " Valute [numCode=" + numCode + ", charCode=" + charCode + ", nominal=" + nominal + ", money=" + money
                 + "]\n";
     }
-
-    
-
-    
-
-   
-    
-
-    
-
-
-   
-
-
-    
-
 
 
 }
